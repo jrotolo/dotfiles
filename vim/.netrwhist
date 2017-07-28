@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/jrotolo/src/hvo/src'
+let g:netrw_dirhist_2='/Users/jrotolo/src/hvo/src/javascripts'
+let g:netrw_dirhist_3='/Users/jrotolo/src/hvo/src/javascripts/components'
+let g:netrw_dirhist_4='/Users/jrotolo/src/hvo'
+let g:netrw_dirhist_5='/Users/jrotolo/src/hvo/src'
+let g:netrw_dirhist_6='/Users/jrotolo/src/hvo'
